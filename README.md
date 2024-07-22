@@ -1,6 +1,6 @@
 # MeScena - Web3 Video Streaming Platform
 
-link : https://me-scena-45whwle95-cellou59s-projects.vercel.app/
+link : [https://me-scena-45whwle95-cellou59s-projects.vercel.app/](https://me-scena-98x4x3k62-cellou59s-projects.vercel.app/)
 
 ## Introduction
 
